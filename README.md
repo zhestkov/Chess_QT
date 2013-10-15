@@ -1,4 +1,4 @@
 Chess_QT
 ========
 
-Chess game
+Chess game using Qt framework
